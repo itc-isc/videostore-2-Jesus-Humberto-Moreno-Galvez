@@ -1,4 +1,4 @@
-# **NOMBRE:**_____________________________________
+# **NOMBRE:**_Moreno Galvez Jesus Humberto___
 
 # **Ejercicio-Comprensión de Programas**
 **VideoStore** es una App Java desarrollada para gestionar el Punto de Venta de una tienda de renta de Videos.
